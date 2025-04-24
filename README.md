@@ -39,10 +39,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
+![ex6 empd](https://github.com/user-attachments/assets/ebba3537-4006-4966-9608-3ec006c59b5f)
+![empd](https://github.com/user-attachments/assets/2bf02f7f-8091-4588-88a8-fe18a6e3b31a)
+![empd2](https://github.com/user-attachments/assets/9f3cdd23-b094-4229-849c-e95cf1ff795a)
 
 
 ## Output:
-![exp 6 img](https://github.com/user-attachments/assets/a5124206-2e90-4b5d-8ad5-8e1661322cbd)
+![image](https://github.com/user-attachments/assets/69f111eb-782c-40de-b88d-66fd36ee59ae)
+
 
 ### Name: Ravivarman VV
 ### Register Number: 212224240133
